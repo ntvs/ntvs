@@ -8,9 +8,7 @@ I'm interested in learning more about low level programming and back end/API des
 Currently, I'm learning how to make web applications with Vue.js and learning how to port them to the desktop with Electron.js.
 
 ### Want to collaborate?
-You can learn more about me, the projects I've worked on and my contact information on my personal website:
-https://www.nickribeiro.com
-
+You can learn more about me, the projects I've worked on and see my contact information on my [personal website](https://www.nickribeiro.com).
 
 <!---
 ntvs/ntvs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
