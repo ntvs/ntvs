@@ -5,10 +5,10 @@
 I'm interested in learning more about low level programming and back end/API design, but I have more technical skill when it comes to front end programming and visual design.
 
 ### What are you learning now?
-Kubernetes
+Kubernetes/developing microservices
 
 ### Want to collaborate?
-You can learn more about me, the projects I've worked on and see my contact information on my [personal website](https://www.nickribeiro.com).
+Want to learn more about me and the projects I've worked on? Check out my [personal website](https://www.nickribeiro.com).
 
 <!---
 Currently, I'm learning how to make web applications with Vue.js and learning how to port them to the desktop with Electron.js.
