@@ -5,7 +5,7 @@
 I'm interested in learning more about low level programming and back end/API design, but I have more technical skill when it comes to front end programming and visual design.
 
 ### What are you learning now?
-Kubernetes/developing microservices
+Javascript game development
 
 ### Want to collaborate?
 Want to learn more about me and the projects I've worked on? Check out my [personal website](https://www.nickribeiro.com).
