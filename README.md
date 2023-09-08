@@ -1,11 +1,19 @@
 # 👋 Hi, I’m @ntvs
-## I'm a hard-working developer who loves to learn new tools!
 
 ### Interests & skills
-I'm interested in learning more about low level programming and back end/API design, but I have more technical skill when it comes to front end programming and visual design.
+- [x] Java
+- [x] Express.js
+- [X] Node.js
+- [X] JavaScript
+- [x] TypeScript
+- [x] Python
+- [x] Svelte
+- [x] AWS Lambda
+- [x] Heroku
+- [ ] EC2
 
 ### What are you learning now?
-Firebase + Svelte web apps
+AWS backend + Svelte web apps
 
 ### Want to collaborate?
 Want to learn more about me and the projects I've worked on? Check out my [personal website](https://www.nickribeiro.com).
