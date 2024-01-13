@@ -7,10 +7,10 @@
 - [X] JavaScript
 - [x] TypeScript
 - [x] Python
-- [x] Svelte
+- [x] SvelteKit
+- [x] Vue.js
 - [x] AWS Lambda
 - [x] Heroku
-- [ ] EC2
 
 ### What are you learning now?
 AWS backend + Svelte web apps
