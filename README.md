@@ -14,7 +14,7 @@
 
 ### What are you learning now?
 ~~AWS backend + Svelte web apps~~
-C & C++ review
+SvelteKit + Electron apps??
 
 <!---
 Currently, I'm learning how to make web applications with Vue.js and learning how to port them to the desktop with Electron.js.
