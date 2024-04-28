@@ -14,6 +14,7 @@
 - [x] Electron
 - [x] React
 - [x] SQL
+- [x] MongoDB
 
 ### What are you learning now?
 ~~AWS backend + Svelte web apps~~
