@@ -13,6 +13,7 @@
 - [x] Heroku
 - [x] Electron
 - [x] React
+- [x] SQL
 
 ### What are you learning now?
 ~~AWS backend + Svelte web apps~~
