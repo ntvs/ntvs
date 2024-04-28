@@ -11,6 +11,8 @@
 - [x] Vue.js
 - [x] AWS Lambda
 - [x] Heroku
+- [x] Electron
+- [x] React
 
 ### What are you learning now?
 ~~AWS backend + Svelte web apps~~
