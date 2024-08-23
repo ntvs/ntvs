@@ -13,12 +13,13 @@
 - [x] Heroku
 - [x] Electron
 - [x] React
-- [x] SQL
+- [x] SQLite
 - [x] MongoDB
 
 ### What are you learning now?
 ~~AWS backend + Svelte web apps~~
-SvelteKit + Electron apps??
+~~SvelteKit + Electron apps??~~
+Electron + React + TS
 
 <!---
 Currently, I'm learning how to make web applications with Vue.js and learning how to port them to the desktop with Electron.js.
